@@ -3,8 +3,8 @@
 You are tasked with determining the exact date or most likely occurrence of an event based on the given information. Follow these steps carefully:
 
 1. First, review the event title and event description:
-        - Event Name: {event_name}
-        - Event description: {event_description}
+    - Event Name: {event_name}
+    - Event description: {event_description}
 2. Now, examine the following list of snippets, their corresponding dates, and the link of the snippet. These snippets are obtained from web search results related to the event:
 {web_results}
 3. Analyze the snippets to determine the event date:
